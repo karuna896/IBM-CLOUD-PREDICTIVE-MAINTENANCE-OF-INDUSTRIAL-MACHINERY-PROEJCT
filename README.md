@@ -54,7 +54,6 @@ Unplanned machinery failures can cause costly downtimes in industrial operations
 ## 📚 References
 - [IBM AutoAI Documentation](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=autoai-supported-algorithms)
 - [Kaggle Dataset](https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification)
-- Breiman, L. (2001). *Random Forests*. Machine Learning, 45(1), 5–32.
 
 ---
 
